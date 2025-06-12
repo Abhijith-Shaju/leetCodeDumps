@@ -1,0 +1,16 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxAdjacentDistance = function(nums) {
+    let max = Math.abs(nums[0] - nums[nums.length - 1]);
+    let i = 0;
+    for(i; i < nums.length - 1; i++){
+        let x = Math.abs(nums[i] - nums[i+1]);
+        if (x > max){
+            max = x;
+        }
+    }
+
+    return max;
+};
