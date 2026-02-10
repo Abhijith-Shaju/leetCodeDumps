@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-array-pairs-divisible-by-k/">2301. Count Array Pairs Divisible by K</a></h2><h3>Hard</h3><hr><p>Given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>, return <em>the <strong>number of pairs</strong></em> <code>(i, j)</code> <em>such that:</em></p>
+<h2><a href="https://leetcode.com/problems/count-array-pairs-divisible-by-k">2301. Count Array Pairs Divisible by K</a></h2><h3>Hard</h3><hr><p>Given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>, return <em>the <strong>number of pairs</strong></em> <code>(i, j)</code> <em>such that:</em></p>
 
 <ul>
 	<li><code>0 &lt;= i &lt; j &lt;= n - 1</code> <em>and</em></li>
