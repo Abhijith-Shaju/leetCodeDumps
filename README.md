@@ -7,10 +7,12 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
