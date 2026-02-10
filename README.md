@@ -14,6 +14,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
