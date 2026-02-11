@@ -17,12 +17,13 @@ class FreqStack {
     }
     
     public int pop() {
-        while(map.get(max).size() == 0 && max > 0) max--;
 
         int pop = map.get(max).peek();
         map.get(max).pop();
 
         freq.put(pop, freq.get(pop) - 1);
+        
+        if(map.get(max).size() == 0 && max > 0) max--;
 
         return pop;
 
