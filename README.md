@@ -20,6 +20,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0206-reverse-linked-list) |
 ## Counting
 |  |
 | ------- |
