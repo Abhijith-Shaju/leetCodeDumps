@@ -22,8 +22,8 @@ class FreqStack {
         map.get(max).pop();
 
         freq.put(pop, freq.get(pop) - 1);
-        
-        if(map.get(max).size() == 0 && max > 0) max--;
+
+        if(map.get(max).isEmpty() && max > 0) max--;
 
         return pop;
 
