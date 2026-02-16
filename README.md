@@ -108,6 +108,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -117,6 +118,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -126,12 +128,14 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
 |  |
