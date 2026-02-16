@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0190-reverse-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -132,4 +133,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
