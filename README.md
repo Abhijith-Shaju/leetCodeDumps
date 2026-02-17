@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0931-maximum-frequency-stack) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0190-reverse-bits) |
 ## Recursion
 |  |
@@ -111,6 +114,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0112-path-sum) |
@@ -138,6 +142,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0112-path-sum) |
