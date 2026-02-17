@@ -18,7 +18,7 @@ class Solution {
         if(iStart > iEnd || pStart >= preorder.length )return null;
 
         int i = iStart;
-        while( i < inorder.length && inorder[i] != preorder[pStart]){
+        while(inorder[i] != preorder[pStart]){
             i++;
         }
         int count = i - iStart;
