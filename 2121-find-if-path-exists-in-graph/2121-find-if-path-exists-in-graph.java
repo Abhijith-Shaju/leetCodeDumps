@@ -18,13 +18,12 @@ class Solution {
         if( set.contains(curr) ) return false;
         set.add(curr);
 
-        if( curr == d) return true;
+        if( curr == d ) return true;
 
         boolean ans = false;
 
         for( int i : map.get(curr) ){
             ans = ans | dfs(i, d, map, set);
-            if(ans) return true;
         }
 
         return ans;
