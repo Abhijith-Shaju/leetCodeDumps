@@ -43,6 +43,7 @@
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -127,6 +129,7 @@
 | [0112-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -146,6 +149,7 @@
 | [0207-course-schedule](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -163,6 +167,7 @@
 | [0112-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -179,6 +184,7 @@
 | [0207-course-schedule](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -211,4 +217,8 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
