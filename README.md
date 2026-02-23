@@ -156,6 +156,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -192,6 +193,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
@@ -204,6 +206,7 @@
 | [0133-clone-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0210-course-schedule-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -229,4 +232,8 @@
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
