@@ -14,7 +14,7 @@ public class Codec {
         String str = String.valueOf(root.val) + " ";
         String ans = str + serialize(root.left) + serialize(root.right);
 
-        System.out.println(ans);
+        // System.out.println(ans);
         return ans;
     }
 
