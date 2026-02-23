@@ -12,8 +12,6 @@ class Solution {
                 l++;
                 r--;
             }
-            // if(nums[l] == target || nums[r] == target) return true;
-
 
             if(nums[l] <= nums[mid]){
                 if(nums[mid] >= target && nums[l] <= target){
