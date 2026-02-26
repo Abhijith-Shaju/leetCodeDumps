@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -253,5 +254,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0046-permutations) |
 | [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
