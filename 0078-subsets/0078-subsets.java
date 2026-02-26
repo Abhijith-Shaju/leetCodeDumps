@@ -11,12 +11,12 @@ class Solution {
         ans.add(new ArrayList<>(temp) );
 
         for(int i = start; i < nums.length; i++){
-            if( !temp.contains(nums[i])){
+            // if( !temp.contains(nums[i])){
                 temp.add(nums[i]);
 
                 helper(nums, i+1, temp, ans);
                 temp.remove(temp.size()-1);
-            }  
+            // }  
         }
     }
 }
