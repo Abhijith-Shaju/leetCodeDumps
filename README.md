@@ -79,6 +79,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Number Theory
 |  |
@@ -265,4 +267,12 @@
 | [0077-combinations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
