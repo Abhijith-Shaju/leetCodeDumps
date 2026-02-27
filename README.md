@@ -19,6 +19,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -253,6 +254,7 @@
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0077-combinations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
+| [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 ## Dynamic Programming
 |  |
 | ------- |
