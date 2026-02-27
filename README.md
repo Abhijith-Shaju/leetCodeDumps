@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Number Theory
@@ -270,9 +271,11 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
