@@ -1,25 +1,31 @@
 class Solution {
-    public int climbStairs(int n) {
-        int[] arr = new int[n+1];
-        helper(n, arr);
+    //memoization
+    // public int climbStairs(int n) {        
+    //     int[] dp = new int[n+1];
 
-        return arr[n];
-    }
+    //     return helper( n, dp );
+    // }
 
-    int helper(int n, int[] arr){
-        if(n == 0){
-            arr[0] = 1;
-            return 1;
+    // int helper(int n, int[] dp){
+    //     if( n <= 2 ) return n;
+
+    //     if( dp[n] != 0 ) return dp[n];
+    //     dp[n] = helper( n - 1, dp ) + helper( n - 2, dp );
+
+    //     return dp[n];
+    // }
+
+    //tabulation
+    public int climbStairs(int n) {        
+        if( n <= 2 ) return n;
+
+        int[] dp = new int[n+1];
+        dp[1] = 1;
+        dp[2] = 2;
+        for(int i = 3; i <= n; i++){
+            dp[i] = dp[i-1] + dp[i-2];
         }
-        if(n == 1){
-            arr[1] = 1;
-            return 1;
-        }
 
-        if(arr[n] == 0){
-            arr[n] = helper(n-1, arr) + helper(n-2, arr);
-        }
-
-        return arr[n];
+        return dp[n];
     }
 }
