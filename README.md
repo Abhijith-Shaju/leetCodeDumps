@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -286,6 +287,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
