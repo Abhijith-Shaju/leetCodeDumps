@@ -309,4 +309,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
