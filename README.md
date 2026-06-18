@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
@@ -71,6 +72,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
