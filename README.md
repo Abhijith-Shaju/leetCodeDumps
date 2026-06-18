@@ -15,6 +15,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
+| [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -275,6 +276,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
