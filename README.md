@@ -22,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
@@ -333,4 +334,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
