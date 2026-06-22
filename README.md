@@ -16,6 +16,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4168-mirror-distance-of-an-integer) |
@@ -114,6 +116,7 @@
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0908-middle-of-the-linked-list) |
