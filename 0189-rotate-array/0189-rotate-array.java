@@ -3,6 +3,12 @@ class Solution {
         int n = nums.length;
         if(n == 1) return;
 
+        oN(nums, k);
+    }
+
+    public void oN(int[] nums, int k){
+        int n = nums.length;
+
         int[] arr = new int[n];
         int j = n - (k % n);
 
