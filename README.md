@@ -27,6 +27,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## Doubly-Linked List
 |  |
 | ------- |
