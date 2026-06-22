@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0078-subsets) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
