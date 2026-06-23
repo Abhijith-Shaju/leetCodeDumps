@@ -48,6 +48,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -106,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Math
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
@@ -352,4 +355,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1603-running-sum-of-1d-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
