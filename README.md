@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0133-clone-graph) |
