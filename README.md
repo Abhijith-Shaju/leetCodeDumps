@@ -126,6 +126,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0443-string-compression) |
@@ -134,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
