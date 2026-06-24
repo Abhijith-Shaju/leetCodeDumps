@@ -1,20 +1,21 @@
 class Solution {
-    
-    boolean isPal(String s, int i, int j){
-        while(i <= j){
-            if(s.charAt(i) != s.charAt(j)) return false;;
-            i++;
-            j--;
+    int expand(String s, int i, int j){
+        int count = 0;
+
+        while( i >=0 && j < s.length() && s.charAt(i) == s.charAt(j) ){
+            i--;
+            j++;
+            count++;
         }
 
-        return true;
+        return count;
     }
-
     public int countSubstrings(String s) {
         int ans = 0;
 
         for(int i = 0; i < s.length(); i++){
-            for(int j = i; j < s.length(); j++) if( isPal(s, i, j) )ans++;
+            ans += expand(s, i, i);
+            ans += expand(s, i, i+1);
         }
 
         return ans;
