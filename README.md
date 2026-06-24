@@ -51,6 +51,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
