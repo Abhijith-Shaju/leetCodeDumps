@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0046-permutations) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
@@ -305,6 +307,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
