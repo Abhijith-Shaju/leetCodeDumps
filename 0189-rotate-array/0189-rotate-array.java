@@ -1,23 +1,32 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        if(n == 1) return;
+        k = k % n;
 
-        oN(nums, k);
-    }
+        if(k == 0 || k == n) return;
 
-    public void oN(int[] nums, int k){
-        int n = nums.length;
+        int d = n - k;
+        int i = d;
+        int j = n - d;
 
-        int[] arr = new int[n];
-        int j = n - (k % n);
-
-        for(int i = 0; i < n; i++){
-            arr[i] = nums[j++ % n];
+        while( i != j ){
+            if( i < j ){
+                swap(nums, d - i, j + d - i, i);
+                j -= i;
+            }else{
+                swap(nums, d - i, d, j);
+                i -= j;
+            }
         }
 
-        for(int i = 0; i < n; i++){
-            nums[i] = arr[i];
+        swap(nums, d-i, d, i);
+    }
+
+    void swap(int[] nums, int fi, int si, int len){
+        for(int i = 0; i < len; i++){
+            int temp = nums[fi + i];
+            nums[fi + i] = nums[si + i];
+            nums[si + i] = temp;
         }
     }
 }
