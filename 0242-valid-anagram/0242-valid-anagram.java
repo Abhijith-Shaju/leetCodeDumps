@@ -3,14 +3,14 @@ class Solution {
         if(s.length() != t.length()) return false;
         
         int[] a = new int[26];
-        int[] b = new int[26];
 
         for(int i = 0; i < s.length(); i++){
             a[ s.charAt(i) - 'a' ] += 1;
-            b[ t.charAt(i) - 'a' ] += 1;
+            a[ t.charAt(i) - 'a' ] -= 1;
         }
 
-        if( !Arrays.equals(a, b) ) return false;
+        // if( !Arrays.equals(a, b) ) return false;
+        for(int i : a) if(i != 0) return false;
 
         return true;
     }
