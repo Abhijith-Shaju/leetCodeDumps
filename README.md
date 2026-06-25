@@ -122,6 +122,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
