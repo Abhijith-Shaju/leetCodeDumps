@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
@@ -315,6 +316,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -373,4 +375,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
