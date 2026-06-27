@@ -165,6 +165,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Doubly-Linked List
 |  |
 | ------- |
