@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
@@ -172,6 +173,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## Doubly-Linked List
@@ -316,6 +318,7 @@
 | [0063-unique-paths-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
