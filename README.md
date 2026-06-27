@@ -30,6 +30,7 @@
 | [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
@@ -335,6 +336,7 @@
 | [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
@@ -405,5 +407,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
