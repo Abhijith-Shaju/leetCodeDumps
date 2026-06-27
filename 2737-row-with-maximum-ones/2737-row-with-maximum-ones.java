@@ -1,6 +1,7 @@
 class Solution {
     public int[] rowAndMaximumOnes(int[][] mat) {
         int[] temp = new int[mat.length];
+        int max = 0;
 
         for(int i = 0; i < mat.length; i++){
             int count = 0;
@@ -9,11 +10,6 @@ class Solution {
             }
 
             temp[i] = count;
-        }
-
-        int max = 0;
-
-        for(int i = 0; i < temp.length; i++){
             if( temp[i] > temp[max]) max = i;
         }
 
