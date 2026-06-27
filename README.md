@@ -167,6 +167,7 @@
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3931-process-string-with-special-operations-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3931-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3931-process-string-with-special-operations-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3931-process-string-with-special-operations-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
