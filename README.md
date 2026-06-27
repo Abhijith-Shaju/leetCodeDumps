@@ -50,6 +50,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
+| [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
