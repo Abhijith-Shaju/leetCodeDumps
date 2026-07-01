@@ -48,6 +48,7 @@
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -182,6 +183,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0931-maximum-frequency-stack) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
@@ -419,6 +421,7 @@
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
