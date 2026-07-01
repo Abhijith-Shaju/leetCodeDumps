@@ -1,8 +1,7 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
-
-        Stack<Integer> stack = new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
         
         int[] ans = new int[nums.length];
         Arrays.fill(ans, -1);
