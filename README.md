@@ -173,6 +173,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3931-process-string-with-special-operations-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3931-process-string-with-special-operations-i) |
 ## Stack
@@ -186,6 +187,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [0078-subsets](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -401,6 +404,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
 | ------- |
