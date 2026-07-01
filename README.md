@@ -172,6 +172,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
+| [0742-to-lower-case](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [1660-thousand-separator](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1660-thousand-separator) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
