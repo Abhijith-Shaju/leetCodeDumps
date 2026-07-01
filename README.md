@@ -52,6 +52,7 @@
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
@@ -74,6 +75,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Linked List
 |  |
@@ -131,6 +133,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Math
 |  |
@@ -141,6 +144,7 @@
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4168-mirror-distance-of-an-integer) |
 ## Number Theory
