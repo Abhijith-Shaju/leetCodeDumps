@@ -31,6 +31,7 @@
 | [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
@@ -62,6 +63,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
@@ -412,6 +415,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
