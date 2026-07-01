@@ -1,7 +1,7 @@
 class Solution {
     public int[] finalPrices(int[] prices) {
         int n = prices.length;
-        int[] ans = new int[n];
+        // int[] ans = new int[n];
 
         Deque<Integer> stack = new ArrayDeque<>();
 
@@ -9,12 +9,15 @@ class Solution {
 
             while(!stack.isEmpty() && prices[i] < stack.peek()) stack.pop();
 
-            if(stack.isEmpty()) ans[i]= prices[i];
-            else ans[i] = prices[i] - stack.peek();
+            int temp = prices[i];
 
-            stack.push(prices[i]);
+            if( !stack.isEmpty() )
+                prices[i] = prices[i] - stack.peek();
+
+            stack.push(temp);
+
         }
 
-        return ans;
+        return prices;
     }
 }
