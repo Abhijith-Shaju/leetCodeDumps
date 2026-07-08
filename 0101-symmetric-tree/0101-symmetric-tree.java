@@ -22,13 +22,8 @@ class Solution {
     }
 
     public boolean isSymmetric(TreeNode root) {
-        if(root == null) 
-        // || (root.left == null && root.right == null) ) 
-        return true;
-
-        // if(root.left != null && root.right != null){
-            return equals(root.left, root.right);
-        // }
-        // return false;
+        if(root == null) return true;
+    
+        return equals(root.left, root.right);
     }
 }
