@@ -233,6 +233,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0988-flip-equivalent-binary-trees) |
@@ -284,6 +285,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0988-flip-equivalent-binary-trees) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
