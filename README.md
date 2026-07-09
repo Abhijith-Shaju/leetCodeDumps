@@ -31,6 +31,7 @@
 | [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
@@ -113,6 +114,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
+| [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
@@ -216,6 +219,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0931-maximum-frequency-stack) |
 ## Tree
 |  |
@@ -444,6 +448,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
