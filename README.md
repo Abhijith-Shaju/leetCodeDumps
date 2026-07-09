@@ -43,6 +43,7 @@
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
@@ -191,6 +192,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0931-maximum-frequency-stack) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
@@ -239,6 +241,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +378,7 @@
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,6 +446,7 @@
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
