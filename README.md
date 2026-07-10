@@ -30,6 +30,7 @@
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@
 | [0133-clone-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
@@ -123,6 +125,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Recursion
 |  |
@@ -134,6 +137,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
@@ -372,6 +376,7 @@
 | [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -457,6 +462,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
@@ -464,4 +470,12 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
