@@ -60,6 +60,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -372,6 +375,7 @@
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -385,6 +389,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
