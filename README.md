@@ -418,6 +418,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0113-path-sum-ii) |
