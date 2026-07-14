@@ -8,12 +8,12 @@ class Solution {
             return ans;
         }
         String[][] arr = new String[n][n];
-        placer(arr, 0, 0, n, ans, 0);
+        placer(arr, 0, n, ans, 0);
 
         return ans;
     }
 
-    void placer(String[][] arr, int i, int j, int n, List<List<String>> ans, int num){
+    void placer(String[][] arr, int i, int n, List<List<String>> ans, int num){
         if(num == n){
             List<String> temp = new ArrayList<>();
             for(String[] row : arr){
@@ -23,17 +23,17 @@ class Solution {
                 }
                 temp.add(sb.toString());
             }
-            System.out.println(temp);
+            // System.out.println(temp);
             ans.add( new ArrayList<>(temp) );
             return;
         }
-        if(i < 0 || j < 0 || i >= n || j >= n) return;
+        if(i < 0 || i >= n) return;
 
         for(int x = 0; x < n; x++){
             if( arr[i][x] == null || !arr[i][x].equals(".") ){
                 if( !helper(arr, i, x, n) ) continue;
                 arr[i][x] = "Q";
-                placer(arr, i+1, j, n, ans, num+1);
+                placer(arr, i+1, n, ans, num+1);
                 arr[i][x] = null;
             }
         }
