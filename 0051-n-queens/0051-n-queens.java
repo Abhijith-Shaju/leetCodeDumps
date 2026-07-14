@@ -29,12 +29,10 @@ class Solution {
         if(i < 0 || i >= n) return;
 
         for(int x = 0; x < n; x++){
-            if( arr[i][x] == null || !arr[i][x].equals(".") ){
-                if( !helper(arr, i, x, n) ) continue;
-                arr[i][x] = "Q";
-                placer(arr, i+1, n, ans, num+1);
-                arr[i][x] = null;
-            }
+            if( !helper(arr, i, x, n) ) continue;
+            arr[i][x] = "Q";
+            placer(arr, i+1, n, ans, num+1);
+            arr[i][x] = null;
         }
     }
 
