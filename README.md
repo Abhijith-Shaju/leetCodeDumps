@@ -162,6 +162,7 @@
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4168-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
@@ -444,6 +445,7 @@
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -514,4 +516,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
