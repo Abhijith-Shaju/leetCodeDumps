@@ -1,11 +1,9 @@
 class Solution {
     public int fib(int n) {
-        if(n <= 1) return n;
-
+        // if(n <= 1) return n;
         int[] arr = new int[n+1];
-        int ans = helper(n, arr);
 
-        return ans;
+        return helper(n, arr);
     }
 
     int helper(int n, int[] arr){
