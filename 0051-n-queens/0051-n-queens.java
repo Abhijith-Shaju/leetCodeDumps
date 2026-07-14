@@ -39,17 +39,12 @@ class Solution {
     }
 
     boolean helper(char[][] arr, int i, int j, int n){
-        for(int a = 0; a < n; a++){
-            if(arr[i][a] == 'Q' || arr[a][j] == 'Q') return false;        }
-        // for(int a = i+1, b = j+1; a < n && b < n; a++, b++){
-        //     if(arr[a][b] == 'Q') return false;
-        // }
+        for(int a = 0; a < i; a++){
+            if(arr[i][a] == 'Q' || arr[a][j] == 'Q') return false;
+            }
         for(int a = i-1, b = j+1; a >= 0 && b < n; a--, b++){
             if(arr[a][b] == 'Q') return false;
         }
-        // for(int a = i+1, b = j-1; a < n && b >= 0; a++, b--){
-        //     if(arr[a][b] == 'Q') return false;
-        // }
         for(int a = i-1, b = j-1; a >= 0 && b >= 0; a--, b--){
             if(arr[a][b] == 'Q') return false;
         }
