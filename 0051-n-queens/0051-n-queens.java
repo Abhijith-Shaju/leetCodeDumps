@@ -8,6 +8,9 @@ class Solution {
             return ans;
         }
         char[][] arr = new char[n][n];
+        for(int i = 0; i < n; i++){
+            Arrays.fill(arr[i], '.');
+        }
         placer(arr, 0, n, ans, 0);
 
         return ans;
@@ -17,11 +20,7 @@ class Solution {
         if(num == n){
             List<String> temp = new ArrayList<>();
             for(char[] row : arr){
-                StringBuilder sb = new StringBuilder();
-                for(char cell : row) {
-                    sb.append(cell == '\u0000' ? '.' : cell);
-                }
-                temp.add(sb.toString());
+                temp.add(new String(row));
             }
             ans.add( new ArrayList<>(temp) );
             return;
@@ -29,12 +28,10 @@ class Solution {
         if(i < 0 || i >= n) return;
 
         for(int x = 0; x < n; x++){
-            if( arr[i][x] == '\u0000' || !(arr[i][x] == '.') ){
-                if( !helper(arr, i, x, n) ) continue;
-                arr[i][x] = 'Q';
-                placer(arr, i+1, n, ans, num+1);
-                arr[i][x] = '\u0000';
-            }
+            if( !helper(arr, i, x, n) ) continue;
+            arr[i][x] = 'Q';
+            placer(arr, i+1, n, ans, num+1);
+            arr[i][x] = '.';
         }
     }
 
