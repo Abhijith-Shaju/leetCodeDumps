@@ -1,11 +1,8 @@
 class Solution {
     public int totalNQueens(int n) {
-        List<List<String>> ans = new ArrayList<>();
+        int[] ans = new int[]{0};
         if(n == 1){
-            List<String> temp = new ArrayList<>();
-            temp.add("Q");
-            ans.add(temp);
-            return ans.size();
+            return 1;
         }
         char[][] arr = new char[n][n];
         for(int i = 0; i < n; i++){
@@ -13,17 +10,12 @@ class Solution {
         }
         placer(arr, 0, n, ans, 0);
 
-        return ans.size();
+        return ans[0];
     }
 
-    void placer(char[][] arr, int i, int n, List<List<String>> ans, int num){
+    void placer(char[][] arr, int i, int n, int[] ans, int num){
         if(num == n){
-            List<String> temp = new ArrayList<>();
-            for(char[] row : arr){
-                temp.add(new String(row));
-            }
-            ans.add( new ArrayList<>(temp) );
-            return;
+            ans[0] += 1;
         }
         if(i < 0 || i >= n) return;
 
