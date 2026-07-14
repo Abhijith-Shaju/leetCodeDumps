@@ -23,7 +23,6 @@ class Solution {
                 }
                 temp.add(sb.toString());
             }
-            // System.out.println(temp);
             ans.add( new ArrayList<>(temp) );
             return;
         }
@@ -41,18 +40,18 @@ class Solution {
 
     boolean helper(String[][] arr, int i, int j, int n){
         for(int a = 0; a < n; a++){
-            if(arr[i][a] == "Q" || arr[a][j] == "Q") return false;        }
+            if( "Q".equals(arr[i][a]) || "Q".equals(arr[a][j]) ) return false;        }
         for(int a = i+1, b = j+1; a < n && b < n; a++, b++){
-            if(arr[a][b] == "Q") return false;
+            if( "Q".equals(arr[a][b]) ) return false;
         }
         for(int a = i-1, b = j+1; a >= 0 && b < n; a--, b++){
-            if(arr[a][b] == "Q") return false;
+            if( "Q".equals(arr[a][b]) ) return false;
         }
         for(int a = i+1, b = j-1; a < n && b >= 0; a++, b--){
-            if(arr[a][b] == "Q") return false;
+            if( "Q".equals(arr[a][b]) ) return false;
         }
         for(int a = i-1, b = j-1; a >= 0 && b >= 0; a--, b--){
-            if(arr[a][b] == "Q") return false;
+            if( "Q".equals(arr[a][b]) ) return false;
         }
         return true;
     }
