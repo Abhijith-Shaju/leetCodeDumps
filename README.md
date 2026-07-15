@@ -160,6 +160,7 @@
 | [0069-sqrtx](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -286,6 +287,7 @@
 | [0207-course-schedule](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
@@ -446,6 +448,7 @@
 | [0118-pascals-triangle](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
