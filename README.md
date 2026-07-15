@@ -172,6 +172,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -188,6 +189,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0387-first-unique-character-in-a-string) |
@@ -435,6 +437,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0062-unique-paths) |
