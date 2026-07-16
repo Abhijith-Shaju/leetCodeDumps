@@ -3,14 +3,17 @@ class Solution {
         if(n == 1) return 0;
         int[][] dp = new int[n+1][n+1];
         for(int i = 0; i <= n; i++)Arrays.fill(dp[i], -1);
-        return 1 + helper("A", "A", n, dp);
+
+        return 1 + helper(1, 1, n, dp);
     }
 
-    int helper(String s, String copy, int n, int[][] dp){
-        int len1 = s.length();
-        int len2 = copy.length();
+    int helper(int s, int copy, int n, int[][] dp){
+        int len1 = s;
+        int len2 = copy;
+
         if(len1 == n) return 0;
         if(len1 > n) return 10000;
+
         if(dp[len1][len2] != -1 ) return dp[len1][len2];
 
         int x = 1 + helper(s+copy, copy, n, dp);
