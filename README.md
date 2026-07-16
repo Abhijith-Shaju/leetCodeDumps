@@ -48,6 +48,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0817-design-hashmap](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0817-design-hashmap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0967-minimum-falling-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0967-minimum-falling-path-sum) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
@@ -398,6 +399,7 @@
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
@@ -454,6 +456,7 @@
 | [0518-coin-change-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0967-minimum-falling-path-sum](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Memoization
