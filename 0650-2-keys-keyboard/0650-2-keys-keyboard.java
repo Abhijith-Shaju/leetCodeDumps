@@ -8,19 +8,16 @@ class Solution {
     }
 
     int helper(int s, int copy, int n, int[][] dp){
-        int len1 = s;
-        int len2 = copy;
+        if(s == n) return 0;
+        if(s > n) return 10000;
 
-        if(len1 == n) return 0;
-        if(len1 > n) return 10000;
-
-        if(dp[len1][len2] != -1 ) return dp[len1][len2];
+        if(dp[s][copy] != -1 ) return dp[s][copy];
 
         int x = 1 + helper(s+copy, copy, n, dp);
-        copy = s;
-        int y = 2 + helper(s+copy, copy, n, dp);
 
-        dp[len1][len2] = Math.min(x, y);
-        return dp[len1][len2];
+        int y = 2 + helper(s+s, s, n, dp);
+
+        dp[s][copy] = Math.min(x, y);
+        return dp[s][copy];
     }
 }
