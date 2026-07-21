@@ -9,16 +9,13 @@ class Solution {
                 }
             }
         }
-
         return count;
     }
 
     void sink(char[][] grid, int i, int j){
-        if( i < 0 || i >= grid.length || j < 0 || j >= grid[i].length || grid[i][j] == '0'){
-            return ;
-        }
+        if( i < 0 || i >= grid.length || j < 0 || j >= grid[i].length || grid[i][j] == '0') return;
+        
         grid[i][j] = '0';
-
         sink(grid, i + 1, j);
         sink(grid, i - 1, j);
         sink(grid, i, j + 1);
