@@ -42,6 +42,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
@@ -299,6 +300,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
@@ -417,6 +419,7 @@
 | [0130-surrounded-regions](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0733-flood-fill) |
@@ -478,6 +481,7 @@
 | [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
