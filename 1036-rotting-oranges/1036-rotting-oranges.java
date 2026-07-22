@@ -8,64 +8,39 @@ class Solution {
         }
     }
     public int orangesRotting(int[][] grid) {
-        if(grid.length == 1 && grid[0].length == 1){
-            if(grid[0][0] == 1) return -1;
-            return 0;
-        }
         Queue<Pair> q = new LinkedList<>();
+        int fresh = 0;
+        int ans = 0;
+        
         for(int i = 0;i < grid.length; i++){
             for(int j = 0; j < grid[i].length; j++){
                 if(grid[i][j] == 2){ 
                     q.offer(new Pair(i, j));
-                    grid[i][j] = 3;
-                }
+                }else if(grid[i][j] == 1) fresh++;
             }
         }
+        
+        int[][] dirs = new int[][]{ {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
 
-        if(q.size() == 0){
-            boolean flag = false;
-            for(int i = 0; i < grid.length; i++){
-                for(int j = 0; j < grid[i].length; j++){
-                    if(grid[i][j] == 1) flag = true;
-                }
-            }
-            if( !flag ) return 0;
-        }
-
-        if(q.size() == 0) return -1;
-        int ans = 0;
-        while( !q.isEmpty() ){
+        while( !q.isEmpty() && fresh > 0){
             int size = q.size();
             for(int i = 0; i < size; i++){
                 Pair p = q.poll();
-                if( p.a-1 >= 0 && grid[p.a - 1][p.b] == 1){ 
-                    q.offer( new Pair(p.a-1, p.b) );
-                    grid[p.a-1][p.b] = 2;
-                }
 
-                if( p.a+1 < grid.length && grid[p.a + 1][p.b] == 1) {
-                    q.offer( new Pair(p.a+1, p.b) );
-                    grid[p.a+1][p.b] = 2;
-                }
+                for(int[] dir : dirs){
+                    int a = p.a + dir[0];
+                    int b = p.b +dir[1];
 
-                if( p.b-1 >= 0 && grid[p.a][p.b - 1] == 1) {
-                    q.offer( new Pair(p.a, p.b-1) );
-                    grid[p.a][p.b-1] = 2;
-                }
-
-                if( p.b+1 < grid[p.a].length && grid[p.a][p.b + 1] == 1) {
-                    q.offer( new Pair(p.a, p.b+1) );
-                    grid[p.a][p.b+1] = 2;
+                    if( a >= 0 && a < grid.length && b >= 0 && b < grid[a].length && grid[a][b] == 1){
+                        q.offer( new Pair(a, b) );
+                        grid[a][b] = 2;
+                        fresh--;
+                    }
                 }
             }
             ans++;
         }
-        for(int i = 0; i < grid.length; i++){
-            for(int j = 0; j < grid[i].length; j++){
-                if(grid[i][j] == 1) return -1; 
-            }
-        }
 
-        return ans-1;
+        return fresh == 0 ? ans : -1;
     }
 }
