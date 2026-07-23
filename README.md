@@ -194,6 +194,7 @@
 | [0647-palindromic-substrings](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0908-middle-of-the-linked-list) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0742-to-lower-case](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1660-thousand-separator) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -565,4 +567,8 @@
 |  |
 | ------- |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
