@@ -57,6 +57,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
@@ -407,6 +408,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0871-keys-and-rooms) |
+| [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -556,6 +558,7 @@
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [1753-path-with-minimum-effort](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
@@ -563,6 +566,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
