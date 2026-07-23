@@ -70,6 +70,7 @@
 | [1769-get-maximum-in-generated-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1769-get-maximum-in-generated-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -322,6 +323,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -410,6 +412,7 @@
 | [0871-keys-and-rooms](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2121-find-if-path-exists-in-graph) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -444,6 +447,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1331-path-with-maximum-gold) |
 | [1753-path-with-minimum-effort](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1753-path-with-minimum-effort) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -561,12 +565,14 @@
 | [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [1753-path-with-minimum-effort](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1753-path-with-minimum-effort) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
