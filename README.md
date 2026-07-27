@@ -63,6 +63,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -469,6 +470,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -571,6 +573,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1753-path-with-minimum-effort) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
