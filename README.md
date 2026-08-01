@@ -97,6 +97,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1660-thousand-separator) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3931-process-string-with-special-operations-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3931-process-string-with-special-operations-i) |
 ## Stack
@@ -471,6 +474,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -539,6 +543,7 @@
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
