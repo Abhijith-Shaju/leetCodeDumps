@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0506-relative-ranks) |
@@ -157,6 +158,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -176,6 +178,7 @@
 | [0070-climbing-stairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
@@ -511,6 +514,7 @@
 | [0174-dungeon-game](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0542-01-matrix) |
@@ -608,4 +612,8 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
