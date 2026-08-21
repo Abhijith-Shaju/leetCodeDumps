@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0078-subsets) |
@@ -245,6 +246,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -444,6 +446,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0130-surrounded-regions) |
