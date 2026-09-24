@@ -214,6 +214,7 @@
 | [0874-backspace-string-compare](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1660-thousand-separator) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3931-process-string-with-special-operations-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3931-process-string-with-special-operations-i) |
@@ -559,6 +561,7 @@
 | [0011-container-with-most-water](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0011-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
