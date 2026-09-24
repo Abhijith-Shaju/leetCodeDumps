@@ -78,6 +78,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4168-mirror-distance-of-an-integer) |
 ## Number Theory
