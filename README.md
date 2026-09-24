@@ -187,6 +187,7 @@
 | [1013-fibonacci-number](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/4168-mirror-distance-of-an-integer) |
@@ -416,6 +417,7 @@
 | [0190-reverse-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0800-letter-case-permutation](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0800-letter-case-permutation) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Graph Theory
 |  |
 | ------- |
