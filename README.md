@@ -76,6 +76,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2737-row-with-maximum-ones) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -420,6 +421,7 @@
 | [0190-reverse-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0222-count-complete-tree-nodes) |
 | [0800-letter-case-permutation](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0800-letter-case-permutation) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Graph Theory
 |  |
