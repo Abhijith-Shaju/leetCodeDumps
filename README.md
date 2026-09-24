@@ -72,6 +72,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1635-number-of-good-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1753-path-with-minimum-effort) |
 | [1769-get-maximum-in-generated-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1769-get-maximum-in-generated-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2227-sum-of-subarray-ranges) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -486,6 +487,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
@@ -626,4 +628,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/0486-predict-the-winner) |
+## Quicksort
+|  |
+| ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhijith-Shaju/leetCodeDumps/tree/master/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
